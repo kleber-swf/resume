@@ -34,14 +34,14 @@
      inkscape:snap-to-guides="true"
      inkscape:snap-page="true"
      inkscape:zoom="1.4142136"
-     inkscape:cx="420.37498"
-     inkscape:cy="597.15168"
+     inkscape:cx="420.37497"
+     inkscape:cy="370.8775"
      inkscape:window-width="2560"
      inkscape:window-height="1356"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="g239071-6"
      inkscape:lockguides="false"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
@@ -178,7 +178,7 @@
     <color-profile
        name="sRGB"
        xlink:href="file:///usr/share/color/icc/colord/sRGB.icc"
-       id="color-profile17403" />
+       id="color-profile1483" />
     <linearGradient
        id="timeline-2"
        inkscape:swatch="solid">
@@ -1534,13 +1534,13 @@
        y="7.7928826e-07" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388889px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:0.5;stroke-width:0.0333835"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:0.5;stroke-width:0.0333835"
        x="200.03827"
        y="292.57993"
        id="text4580"><tspan
          sodipodi:role="line"
          id="tspan4578"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Poppins;-inkscape-font-specification:Poppins;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:0.5;stroke-width:0.0333835;font-size:1.76388889px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:Poppins;-inkscape-font-specification:Poppins;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:0.5;stroke-width:0.0333835"
          x="200.03827"
          y="292.57993">version 1.2</tspan></text>
   </g>
@@ -1562,7 +1562,7 @@
          inkscape:label="Title"><tspan
            x="40"
            y="314"
-           id="tspan18027">JUNIOR GAME DEVELOPER</tspan></text>
+           id="tspan2107">JUNIOR GAME DEVELOPER</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:2.64583px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;font-variation-settings:normal;white-space:pre;inline-size:58.4015;display:inline;vector-effect:none;fill:url(#text-color);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -1573,22 +1573,22 @@
          inkscape:label="text"><tspan
            x="9.4849453"
            y="83.927063"
-           id="tspan18029">Development of client-side features for the </tspan><tspan
+           id="tspan2109">Development of client-side features for the </tspan><tspan
            x="9.4849453"
            y="87.234352"
-           id="tspan18031">game Taikodom, first in Java and later in </tspan><tspan
+           id="tspan2111">game Taikodom, first in Java and later in </tspan><tspan
            x="9.4849453"
            y="90.541641"
-           id="tspan18033">Unity. I've worked most of the time with the </tspan><tspan
+           id="tspan2113">Unity. I've worked most of the time with the </tspan><tspan
            x="9.4849453"
            y="93.84893"
-           id="tspan18035">game UI, very close to the designers. I also </tspan><tspan
+           id="tspan2115">game UI, very close to the designers. I also </tspan><tspan
            x="9.4849453"
            y="97.156219"
-           id="tspan18037">developed an UI framework for Unity wich </tspan><tspan
+           id="tspan2117">developed an UI framework for Unity wich </tspan><tspan
            x="9.4849453"
            y="100.46351"
-           id="tspan18039">later become opensource.</tspan></text>
+           id="tspan2119">later become opensource.</tspan></text>
       <text
          xml:space="preserve"
          id="text6065-0-9-0-7-7-3-7-6-6"
@@ -1599,7 +1599,7 @@
          inkscape:label="Company"><tspan
            x="40"
            y="315.90618"
-           id="tspan18041">Hoplon Infotainment</tspan></text>
+           id="tspan2121">Hoplon Infotainment</tspan></text>
     </g>
     <g
        id="g474203"
@@ -1615,7 +1615,7 @@
          inkscape:label="Title"><tspan
            x="40"
            y="314"
-           id="tspan18043">MID LEVEL GAME DEVELOPER</tspan></text>
+           id="tspan2123">MID LEVEL GAME DEVELOPER</tspan></text>
       <text
          xml:space="preserve"
          id="text6065-0-9-0-7-7-3-7-6"
@@ -1626,7 +1626,7 @@
          inkscape:label="Company"><tspan
            x="40"
            y="315.90618"
-           id="tspan18045">Vesta Gaming</tspan></text>
+           id="tspan2125">Vesta Gaming</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:2.64583px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;font-variation-settings:normal;white-space:pre;inline-size:58.4015;display:inline;vector-effect:none;fill:url(#text-color);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -1637,22 +1637,22 @@
          inkscape:label="text"><tspan
            x="9.4849453"
            y="83.927063"
-           id="tspan18047">Here I was responsible for our web games </tspan><tspan
+           id="tspan2127">Here I was responsible for our web games </tspan><tspan
            x="9.4849453"
            y="87.234352"
-           id="tspan18049">and their overall quality. I've created a </tspan><tspan
+           id="tspan2129">and their overall quality. I've created a </tspan><tspan
            x="9.4849453"
            y="90.541641"
-           id="tspan18051">framework in ActionScript to help us </tspan><tspan
+           id="tspan2131">framework in ActionScript to help us </tspan><tspan
            x="9.4849453"
            y="93.84893"
-           id="tspan18053">develop games faster. I also worked with </tspan><tspan
+           id="tspan2133">develop games faster. I also worked with </tspan><tspan
            x="9.4849453"
            y="97.156219"
-           id="tspan18055">the team to develop some landbased </tspan><tspan
+           id="tspan2135">the team to develop some landbased </tspan><tspan
            x="9.4849453"
            y="100.46351"
-           id="tspan18057">game in C++.</tspan></text>
+           id="tspan2137">game in C++.</tspan></text>
     </g>
     <g
        id="g561432"
@@ -1668,7 +1668,7 @@
          inkscape:label="Title"><tspan
            x="40"
            y="314"
-           id="tspan18059">MID LEVEL GAME DEVELOPER</tspan></text>
+           id="tspan2139">MID LEVEL GAME DEVELOPER</tspan></text>
       <text
          xml:space="preserve"
          id="text6065-0-9-0-7-7-3-7"
@@ -1679,7 +1679,7 @@
          inkscape:label="Company"><tspan
            x="40"
            y="315.90618"
-           id="tspan18061">Luckee</tspan></text>
+           id="tspan2141">Luckee</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:2.64583px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;font-variation-settings:normal;white-space:pre;inline-size:58.4015;display:inline;vector-effect:none;fill:url(#text-color);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -1690,25 +1690,25 @@
          inkscape:label="text"><tspan
            x="9.4849453"
            y="83.927063"
-           id="tspan18063">Here I was responsible for our web games </tspan><tspan
+           id="tspan2143">Here I was responsible for our web games </tspan><tspan
            x="9.4849453"
            y="87.234352"
-           id="tspan18065">and their overall quality. I've created a </tspan><tspan
+           id="tspan2145">and their overall quality. I've created a </tspan><tspan
            x="9.4849453"
            y="90.541641"
-           id="tspan18067">framework in ActionScript and some </tspan><tspan
+           id="tspan2147">framework in ActionScript and some </tspan><tspan
            x="9.4849453"
            y="93.84893"
-           id="tspan18069">internal tools to help us develop games </tspan><tspan
+           id="tspan2149">internal tools to help us develop games </tspan><tspan
            x="9.4849453"
            y="97.156219"
-           id="tspan18071">faster and worked close to the server and </tspan><tspan
+           id="tspan2151">faster and worked close to the server and </tspan><tspan
            x="9.4849453"
            y="100.46351"
-           id="tspan18073">art team to deliver the best experience </tspan><tspan
+           id="tspan2153">art team to deliver the best experience </tspan><tspan
            x="9.4849453"
            y="103.7708"
-           id="tspan18075">possible for the time.</tspan></text>
+           id="tspan2155">possible for the time.</tspan></text>
     </g>
     <g
        id="g550202"
@@ -1724,7 +1724,7 @@
          inkscape:label="Title"><tspan
            x="40"
            y="314"
-           id="tspan18077">SENIOR GAME DEVELOPER, GAME DESIGNER, PRODUCER</tspan></text>
+           id="tspan2157">SENIOR GAME DEVELOPER, GAME DESIGNER, PRODUCER</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:2.64583px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;font-variation-settings:normal;white-space:pre;inline-size:58.4015;display:inline;vector-effect:none;fill:url(#text-color);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -1735,31 +1735,31 @@
          inkscape:label="text"><tspan
            x="9.4849453"
            y="83.927063"
-           id="tspan18079">I started as a freelancer creating a bonus </tspan><tspan
+           id="tspan2159">I started as a freelancer creating a bonus </tspan><tspan
            x="9.4849453"
            y="87.234352"
-           id="tspan18081">game that end up inserted in all games the </tspan><tspan
+           id="tspan2161">game that end up inserted in all games the </tspan><tspan
            x="9.4849453"
            y="90.541641"
-           id="tspan18083">company had at the time. Soon I was </tspan><tspan
+           id="tspan2163">company had at the time. Soon I was </tspan><tspan
            x="9.4849453"
            y="93.84893"
-           id="tspan18085">promoted to a fulltime employee and </tspan><tspan
+           id="tspan2165">promoted to a fulltime employee and </tspan><tspan
            x="9.4849453"
            y="97.156219"
-           id="tspan18087">published an improved standalone version </tspan><tspan
+           id="tspan2167">published an improved standalone version </tspan><tspan
            x="9.4849453"
            y="100.46351"
-           id="tspan18089">of the same game. Here I've worked as a </tspan><tspan
+           id="tspan2169">of the same game. Here I've worked as a </tspan><tspan
            x="9.4849453"
            y="103.7708"
-           id="tspan18091">game developer but also as a game </tspan><tspan
+           id="tspan2171">game developer but also as a game </tspan><tspan
            x="9.4849453"
            y="107.07809"
-           id="tspan18093">designer and producer for the second </tspan><tspan
+           id="tspan2173">designer and producer for the second </tspan><tspan
            x="9.4849453"
            y="110.38538"
-           id="tspan18095">project.</tspan></text>
+           id="tspan2175">project.</tspan></text>
       <text
          xml:space="preserve"
          id="text6065-0-9-0-7-7-3"
@@ -1770,7 +1770,7 @@
          inkscape:label="Company"><tspan
            x="40"
            y="315.90618"
-           id="tspan18097">Dreams on Demand</tspan></text>
+           id="tspan2177">Dreams on Demand</tspan></text>
     </g>
     <g
        id="g587758"
@@ -1786,7 +1786,7 @@
          inkscape:label="Title"><tspan
            x="40"
            y="314"
-           id="tspan18099">SENIOR LEAD GAME DEVELOPER</tspan></text>
+           id="tspan2179">SENIOR LEAD GAME DEVELOPER</tspan></text>
       <text
          xml:space="preserve"
          id="text6065-0-9-0-7-7"
@@ -1797,7 +1797,7 @@
          inkscape:label="Company"><tspan
            x="40"
            y="315.90618"
-           id="tspan18101">TDA Software Development</tspan></text>
+           id="tspan2181">TDA Software Development</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:2.64583px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;font-variation-settings:normal;white-space:pre;inline-size:58.4015;display:inline;vector-effect:none;fill:url(#text-color);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -1808,19 +1808,19 @@
          inkscape:label="text"><tspan
            x="9.4849453"
            y="83.927063"
-           id="tspan18103">Responsible for the games, their quality and </tspan><tspan
+           id="tspan2183">Responsible for the games, their quality and </tspan><tspan
            x="9.4849453"
            y="87.234352"
-           id="tspan18105">the team. Here we were able to deliver over </tspan><tspan
+           id="tspan2185">the team. Here we were able to deliver over </tspan><tspan
            x="9.4849453"
            y="90.541641"
-           id="tspan18107">40 certified games and another 20 ready </tspan><tspan
+           id="tspan2187">40 certified games and another 20 ready </tspan><tspan
            x="9.4849453"
            y="93.84893"
-           id="tspan18109">for it. I also developed 2 frameworks to </tspan><tspan
+           id="tspan2189">for it. I also developed 2 frameworks to </tspan><tspan
            x="9.4849453"
            y="97.156219"
-           id="tspan18111">achieve help us achieve this goal.</tspan></text>
+           id="tspan2191">achieve help us achieve this goal.</tspan></text>
     </g>
     <g
        id="g316691"
@@ -1836,7 +1836,7 @@
          inkscape:label="Title"><tspan
            x="40"
            y="314"
-           id="tspan18113">SENIOR LEAD GAME DEVELOPER</tspan></text>
+           id="tspan2193">SENIOR LEAD GAME DEVELOPER</tspan></text>
       <text
          xml:space="preserve"
          id="text6065-0-9-0-7"
@@ -1847,7 +1847,7 @@
          inkscape:label="Company"><tspan
            x="40"
            y="315.90618"
-           id="tspan18115">Jogo Global</tspan></text>
+           id="tspan2195">Jogo Global</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:2.64583px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;font-variation-settings:normal;white-space:pre;inline-size:58.4015;display:inline;vector-effect:none;fill:url(#text-color);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -1858,16 +1858,16 @@
          inkscape:label="text"><tspan
            x="9.4849453"
            y="83.927063"
-           id="tspan18117">I'm the one responsible for the games and </tspan><tspan
+           id="tspan2197">I'm the one responsible for the games and </tspan><tspan
            x="9.4849453"
            y="87.234352"
-           id="tspan18119">their overall quality. I've developed 2 game </tspan><tspan
+           id="tspan2199">their overall quality. I've developed 2 game </tspan><tspan
            x="9.4849453"
            y="90.541641"
-           id="tspan18121">frameworks to help us deliver the games </tspan><tspan
+           id="tspan2201">frameworks to help us deliver the games </tspan><tspan
            x="9.4849453"
            y="93.84893"
-           id="tspan18123">faster.</tspan></text>
+           id="tspan2203">faster.</tspan></text>
     </g>
   </g>
   <g
@@ -2493,7 +2493,7 @@
            y="0"><tspan
              x="131.39584"
              y="314.91789"
-             id="tspan18125">Lissa Capeleto, Producer</tspan></text>
+             id="tspan2205">Lissa Capeleto, Producer</tspan></text>
         <path
            id="path587-7-0-3-1"
            style="font-variation-settings:normal;display:inline;vector-effect:none;fill:url(#testimonial);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.77777;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -2509,28 +2509,28 @@
            inkscape:label="text"><tspan
              x="9.4849453"
              y="83.927063"
-             id="tspan18127">Kleber is a great programmer and an </tspan><tspan
+             id="tspan2207">Kleber is a great programmer and an </tspan><tspan
              x="9.4849453"
              y="86.678731"
-             id="tspan18129">awesome person to be around. Quick, </tspan><tspan
+             id="tspan2209">awesome person to be around. Quick, </tspan><tspan
              x="9.4849453"
              y="89.430401"
-             id="tspan18131">focused and very determined. I've worked </tspan><tspan
+             id="tspan2211">focused and very determined. I've worked </tspan><tspan
              x="9.4849453"
              y="92.182072"
-             id="tspan18133">closely with him, as an interface designer, </tspan><tspan
+             id="tspan2213">closely with him, as an interface designer, </tspan><tspan
              x="9.4849453"
              y="94.933743"
-             id="tspan18135">and he was not only a very efcient GUI </tspan><tspan
+             id="tspan2215">and he was not only a very efcient GUI </tspan><tspan
              x="9.4849453"
              y="97.685414"
-             id="tspan18137">programmer and solved problems quickly, </tspan><tspan
+             id="tspan2217">programmer and solved problems quickly, </tspan><tspan
              x="9.4849453"
              y="100.43708"
-             id="tspan18139">but also really fun to be around and a great </tspan><tspan
+             id="tspan2219">but also really fun to be around and a great </tspan><tspan
              x="9.4849453"
              y="103.18876"
-             id="tspan18141">coworker.</tspan></text>
+             id="tspan2221">coworker.</tspan></text>
       </g>
       <g
          id="g51113"
@@ -2547,7 +2547,7 @@
            y="0"><tspan
              x="112.8039"
              y="315"
-             id="tspan18143">Helder Savietto, Developer</tspan></text>
+             id="tspan2223">Helder Savietto, Developer</tspan></text>
         <path
            id="path587-7-0-3-2"
            style="font-variation-settings:normal;display:inline;vector-effect:none;fill:url(#testimonial);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.77777;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -2563,13 +2563,13 @@
            inkscape:label="text"><tspan
              x="9.4849453"
              y="83.927063"
-             id="tspan18145">Kleber is a sui generis professional even in </tspan><tspan
+             id="tspan2225">Kleber is a sui generis professional even in </tspan><tspan
              x="9.4849453"
              y="86.678731"
-             id="tspan18147">the game industry. Games seem to be more </tspan><tspan
+             id="tspan2227">the game industry. Games seem to be more </tspan><tspan
              x="9.4849453"
              y="89.430401"
-             id="tspan18149">than a job for him, they seem to be his life.</tspan></text>
+             id="tspan2229">than a job for him, they seem to be his life.</tspan></text>
       </g>
       <g
          id="g51113-7"
@@ -2586,7 +2586,7 @@
            y="0"><tspan
              x="55.730672"
              y="315"
-             id="tspan18151">João Marcelo Beraldo, Game Designer</tspan></text>
+             id="tspan2231">João Marcelo Beraldo, Game Designer</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:2.29306px;line-height:1.2;font-family:Poppins;-inkscape-font-specification:Poppins;font-variation-settings:normal;white-space:pre;inline-size:51.9387;display:inline;vector-effect:none;fill:url(#testimonial);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -2597,19 +2597,19 @@
            inkscape:label="text"><tspan
              x="9.4849453"
              y="83.927063"
-             id="tspan18153">Few times have I found someone who, while </tspan><tspan
+             id="tspan2233">Few times have I found someone who, while </tspan><tspan
              x="9.4849453"
              y="86.678731"
-             id="tspan18155">focused in one area of work, knows so much </tspan><tspan
+             id="tspan2235">focused in one area of work, knows so much </tspan><tspan
              x="9.4849453"
              y="89.430401"
-             id="tspan18157">of everything else. Kleber is passionate for </tspan><tspan
+             id="tspan2237">of everything else. Kleber is passionate for </tspan><tspan
              x="9.4849453"
              y="92.182072"
-             id="tspan18159">games in a way that been a programmer is </tspan><tspan
+             id="tspan2239">games in a way that been a programmer is </tspan><tspan
              x="9.4849453"
              y="94.933743"
-             id="tspan18161">just part of it.</tspan></text>
+             id="tspan2241">just part of it.</tspan></text>
         <path
            id="path587-7-0-3"
            style="fill:url(#testimonial);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.77777"
@@ -2648,9 +2648,9 @@
            inkscape:label="Title"><tspan
              x="40"
              y="314"
-             id="tspan18165"><tspan
+             id="tspan2245"><tspan
                style="font-weight:normal;font-family:Poppins;-inkscape-font-specification:Poppins"
-               id="tspan18163">UEL - STATE UNIVERSITY OF LONDRINA</tspan></tspan></text>
+               id="tspan2243">UEL - STATE UNIVERSITY OF LONDRINA</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-size:2.64583px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;font-variation-settings:normal;white-space:pre;inline-size:58.3912;display:inline;vector-effect:none;fill:url(#text-color);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -2661,7 +2661,7 @@
            inkscape:label="text"><tspan
              x="9.4849453"
              y="83.927063"
-             id="tspan18167">Bachelor's Degree in Computer Science</tspan></text>
+             id="tspan2247">Bachelor's Degree in Computer Science</tspan></text>
       </g>
       <g
          id="g35421"
@@ -2678,7 +2678,7 @@
            inkscape:label="Title"><tspan
              x="40"
              y="314"
-             id="tspan18169">UFSC - FEDERAL UNIVERSITY OF SANTA CATARINA</tspan></text>
+             id="tspan2249">UFSC - FEDERAL UNIVERSITY OF SANTA CATARINA</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:2.64583px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;font-variation-settings:normal;white-space:pre;inline-size:58.3912;display:inline;vector-effect:none;fill:url(#text-color);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -2689,7 +2689,7 @@
            inkscape:label="text"><tspan
              x="9.4849453"
              y="83.927063"
-             id="tspan18171">Application of games in education</tspan></text>
+             id="tspan2251">Application of games in education</tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -2701,7 +2701,7 @@
          inkscape:label="Title"><tspan
            x="40"
            y="315.90618"
-           id="tspan18173">Education</tspan></text>
+           id="tspan2253">Education</tspan></text>
     </g>
     <g
        id="g12943"
@@ -2718,9 +2718,9 @@
          inkscape:label="Title"><tspan
            x="40"
            y="314"
-           id="tspan18177"><tspan
+           id="tspan2257"><tspan
              style="font-weight:normal;font-family:Poppins;-inkscape-font-specification:Poppins"
-             id="tspan18175">CO-OWNER</tspan></tspan></text>
+             id="tspan2255">CO-OWNER</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-size:2.64583px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;white-space:pre;inline-size:58.3912;fill:url(#text-color);stroke-width:0.264583"
@@ -2731,31 +2731,31 @@
          inkscape:label="text"><tspan
            x="9.4849453"
            y="83.927063"
-           id="tspan18179">This was my own company. As a studio </tspan><tspan
+           id="tspan2259">This was my own company. As a studio </tspan><tspan
            x="9.4849453"
            y="87.234352"
-           id="tspan18181">manager I was responsible for everything </tspan><tspan
+           id="tspan2261">manager I was responsible for everything </tspan><tspan
            x="9.4849453"
            y="90.541641"
-           id="tspan18183">related to the products from concept to </tspan><tspan
+           id="tspan2263">related to the products from concept to </tspan><tspan
            x="9.4849453"
            y="93.84893"
-           id="tspan18185">delivery. Because we were small, I assumed </tspan><tspan
+           id="tspan2265">delivery. Because we were small, I assumed </tspan><tspan
            x="9.4849453"
            y="97.156219"
-           id="tspan18187">roles like the developer, game designer and </tspan><tspan
+           id="tspan2267">roles like the developer, game designer and </tspan><tspan
            x="9.4849453"
            y="100.46351"
-           id="tspan18189">producer of almost all games. Even with all </tspan><tspan
+           id="tspan2269">producer of almost all games. Even with all </tspan><tspan
            x="9.4849453"
            y="103.7708"
-           id="tspan18191">limitations, we were able to publish 18 </tspan><tspan
+           id="tspan2271">limitations, we were able to publish 18 </tspan><tspan
            x="9.4849453"
            y="107.07809"
-           id="tspan18193">games. All of them with the quality we </tspan><tspan
+           id="tspan2273">games. All of them with the quality we </tspan><tspan
            x="9.4849453"
            y="110.38538"
-           id="tspan18195">demanded and within the budget.</tspan></text>
+           id="tspan2275">demanded and within the budget.</tspan></text>
       <text
          xml:space="preserve"
          id="text6065-0-9-0-7-8"
@@ -2766,7 +2766,7 @@
          inkscape:label="Company"><tspan
            x="40"
            y="315.90618"
-           id="tspan18197">Flipflop Games</tspan></text>
+           id="tspan2277">Flipflop Games</tspan></text>
     </g>
     <g
        id="g12919"
@@ -2874,59 +2874,59 @@
          inkscape:label="text"><tspan
            x="9.4849453"
            y="83.927063"
-           id="tspan18199">I'm a experienced game developer. Very </tspan><tspan
+           id="tspan2279">I'm a experienced game developer. Very </tspan><tspan
            x="9.4849453"
            y="87.234352"
-           id="tspan18201">passionate about the game industry. I have </tspan><tspan
+           id="tspan2281">passionate about the game industry. I have </tspan><tspan
            x="9.4849453"
            y="90.541641"
-           id="tspan18203">a mixed experience being sometimes a </tspan><tspan
+           id="tspan2283">a mixed experience being sometimes a </tspan><tspan
            x="9.4849453"
            y="93.84893"
-           id="tspan18205">producer, sometimes a game designer, </tspan><tspan
+           id="tspan2285">producer, sometimes a game designer, </tspan><tspan
            x="9.4849453"
            y="97.156219"
-           id="tspan18207">sometimes a little bit of both, but always a </tspan><tspan
+           id="tspan2287">sometimes a little bit of both, but always a </tspan><tspan
            x="9.4849453"
            y="100.46351"
-           id="tspan18209">developer and always focused on </tspan><tspan
+           id="tspan2289">developer and always focused on </tspan><tspan
            x="9.4849453"
            y="103.7708"
-           id="tspan18211">delivering the best with what we have.
+           id="tspan2291">delivering the best with what we have.
 </tspan><tspan
            x="9.4849453"
            y="107.07809"
-           id="tspan18213">
+           id="tspan2293">
 </tspan><tspan
            x="9.4849453"
            y="110.38538"
-           id="tspan18215">I care about the quality of the game I'm </tspan><tspan
+           id="tspan2295">I care about the quality of the game I'm </tspan><tspan
            x="9.4849453"
            y="113.69266"
-           id="tspan18217">working on, no matter the size. I always </tspan><tspan
+           id="tspan2297">working on, no matter the size. I always </tspan><tspan
            x="9.4849453"
            y="116.99995"
-           id="tspan18219">want to deliver something the team witll be </tspan><tspan
+           id="tspan2299">want to deliver something the team witll be </tspan><tspan
            x="9.4849453"
            y="120.30724"
-           id="tspan18221">proud of.
+           id="tspan2301">proud of.
 </tspan><tspan
            x="9.4849453"
            y="123.61453"
-           id="tspan18223">
+           id="tspan2303">
 </tspan><tspan
            x="9.4849453"
            y="126.92182"
-           id="tspan18225">I also love to make things easier for others. </tspan><tspan
+           id="tspan2305">I also love to make things easier for others. </tspan><tspan
            x="9.4849453"
            y="130.22911"
-           id="tspan18227">That's why I lost the count of how many </tspan><tspan
+           id="tspan2307">That's why I lost the count of how many </tspan><tspan
            x="9.4849453"
            y="133.5364"
-           id="tspan18229">frameworks and tools I've created as part of </tspan><tspan
+           id="tspan2309">frameworks and tools I've created as part of </tspan><tspan
            x="9.4849453"
            y="136.84368"
-           id="tspan18231">the jobs or in personal projects.</tspan></text>
+           id="tspan2311">the jobs or in personal projects.</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Nunito;-inkscape-font-specification:'Nunito, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;display:inline;vector-effect:none;fill:url(#linearGradient91069);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -2963,16 +2963,16 @@
            inkscape:label="text"><tspan
              x="9.4849453"
              y="83.927063"
-             id="tspan18233">All of the code snippets a Unity game </tspan><tspan
+             id="tspan2313">All of the code snippets a Unity game </tspan><tspan
              x="9.4849453"
              y="87.234352"
-             id="tspan18235">developer using VSCode needs. Very </tspan><tspan
+             id="tspan2315">developer using VSCode needs. Very </tspan><tspan
              x="9.4849453"
              y="90.541641"
-             id="tspan18237">popular extension with more than 1M </tspan><tspan
+             id="tspan2317">popular extension with more than 1M </tspan><tspan
              x="9.4849453"
              y="93.84893"
-             id="tspan18239">downloads.</tspan></text>
+             id="tspan2319">downloads.</tspan></text>
         <a
            id="a33656"
            xlink:href="https://marketplace.visualstudio.com/items?itemName=kleber-swf.unity-code-snippets">
@@ -2986,7 +2986,7 @@
              inkscape:label="title"><tspan
                x="9.4849453"
                y="83.927063"
-               id="tspan18241">Visual Studio Code Unity Snippets</tspan></text>
+               id="tspan2321">Visual Studio Code Unity Snippets</tspan></text>
         </a>
       </g>
       <g
@@ -3003,13 +3003,13 @@
            inkscape:label="text"><tspan
              x="9.4849453"
              y="83.927063"
-             id="tspan18243">A simple library to deeply merge json </tspan><tspan
+             id="tspan2323">A simple library to deeply merge json </tspan><tspan
              x="9.4849453"
              y="87.234352"
-             id="tspan18245">objects with the help of useful array </tspan><tspan
+             id="tspan2325">objects with the help of useful array </tspan><tspan
              x="9.4849453"
              y="90.541641"
-             id="tspan18247">merging operations</tspan></text>
+             id="tspan2327">merging operations</tspan></text>
         <a
            id="a37783"
            xlink:href="https://www.npmjs.com/package/deepmerge-json">
@@ -3039,13 +3039,13 @@
            inkscape:label="text"><tspan
              x="9.4849453"
              y="83.927063"
-             id="tspan18249">A WYSIWYG runtime editor for games made </tspan><tspan
+             id="tspan2329">A WYSIWYG runtime editor for games made </tspan><tspan
              x="9.4849453"
              y="87.234352"
-             id="tspan18251">with Phaser engine. Very powerful and very </tspan><tspan
+             id="tspan2331">with Phaser engine. Very powerful and very </tspan><tspan
              x="9.4849453"
              y="90.541641"
-             id="tspan18253">easy to integrate.</tspan></text>
+             id="tspan2333">easy to integrate.</tspan></text>
         <a
            id="a36569"
            xlink:href="https://github.com/kleber-swf/phaser-runtime-editor">
@@ -3059,7 +3059,7 @@
              inkscape:label="title"><tspan
                x="9.4849453"
                y="83.927063"
-               id="tspan18255">Phaser Runtime Editor</tspan></text>
+               id="tspan2335">Phaser Runtime Editor</tspan></text>
         </a>
       </g>
       <g
@@ -3076,16 +3076,16 @@
            inkscape:label="text"><tspan
              x="9.4849453"
              y="83.927063"
-             id="tspan18257">A tool to help developers find frames inside </tspan><tspan
+             id="tspan2337">A tool to help developers find frames inside </tspan><tspan
              x="9.4849453"
              y="87.234352"
-             id="tspan18259">sprite atlases with support to animation </tspan><tspan
+             id="tspan2339">sprite atlases with support to animation </tspan><tspan
              x="9.4849453"
              y="90.541641"
-             id="tspan18261">preview.</tspan></text>
+             id="tspan2341">preview.</tspan></text>
         <a
            id="a37787"
-           xlink:href="https://docs.unity3d.com/Manual/SpriteAtlasWorkflow.html">
+           xlink:href="https://github.com/kleber-swf/sprite-atlas-preview">
           <text
              xml:space="preserve"
              style="font-size:2.82222px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;font-variation-settings:normal;white-space:pre;inline-size:58.4015;display:inline;vector-effect:none;fill:url(#h4);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -3096,7 +3096,7 @@
              inkscape:label="title"><tspan
                x="9.4849453"
                y="83.927063"
-               id="tspan18263">Sprite Atlas Preview</tspan></text>
+               id="tspan2343">Sprite Atlas Preview</tspan></text>
         </a>
       </g>
       <text
